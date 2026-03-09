@@ -1,0 +1,2 @@
+My first Git practice file.
+Preparing for DevOps interviews
