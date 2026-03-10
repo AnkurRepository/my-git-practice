@@ -1,5 +1,6 @@
 My first Git practice file.
 Preparing for DevOps interviews
-This line is edited in Main branch
+This line is edited in Main and FEATURE branch.
+
 
 This change is from feature branch
