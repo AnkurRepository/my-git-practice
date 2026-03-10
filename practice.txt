@@ -1,4 +1,5 @@
 My first Git practice file.
 Preparing for DevOps interviews
+This line is edited in FEATURE branch.
 
 This change is from feature branch
